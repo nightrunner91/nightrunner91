@@ -2,52 +2,63 @@
 
 [English version](./README-en.md)
 
-**Lead Frontend Engineer**
+**Lead Frontend Engineer**  
 semikin91@gmail.com | [GitHub](https://github.com/nightrunner91/) | [Резюме (RU)]() | [Резюме (EN)]()
 
-> **Примечание**: Живу и работаю в Кишинёве, Молдова
-
-## Обо мне
-
-Frontend-инженер с фокусом на интуитивные, доступные интерфейсы. **10+ лет в ИТ**, **6+ лет Vue/Nuxt** в SaaS и enterprise-системах.
-
-- архитектура фронтенда data-heavy дашбордов с визуализациями и аналитикой
-- стратегия управления состоянием и оптимизация производительности enterprise-продукта
-- UX-улучшения на основе тестирования и обратной связи
-- 7+ лет в agile; координация с backend и дизайном; масштабируемость фронтенда
-
-## Текущий фокус
-
-- **AI в разработке**: внедрение AI-ассистентов в разработку и тестирование
-- **AI в интерфейсах**: LLM инструменты интегрированные в UI
-- **UX/UI**: доступность и пользовательский опыт, поддержка текущих проектов
-- **MCP-серверы**: для Claude, OpenAI, Qwen, DeepSeek
-- **Developer Experience (DX)**: применение и внедрение новых инструментов и процессов
-
-## Ключевые навыки
-
-- **Frontend**: Vue (3, Nuxt), React, TypeScript, JavaScript; Python (с AI)
-- **Архитектура**: SPA, SSR, REST, WebSocket, Pinia, Redux, Zustand, Router
-- **LLM**: Claude, OpenCode, OpenRouter, OpenWeb UI, Librechat, LM Studio
-- **Стилизация**: Tailwind, Bootstrap 5, shadcn/ui, NaiveUI, Metronic, Figma
-- **Сборка**: Vite, Webpack, NPM, Git, CI/CD, Railway, Github Pages; Docker (с AI)
-- **Тестирование**: Sentry, Usability Testing, UED, FEED, Vue/React/Chrome Devtools
-- **Инструменты**: VS Codium, Git Lens, LLMs, MCP-серверы, ESLint
-- **Дополнительно**: YouTrack, TMetric, Photoshop, Illustrator
-
-## Сильные стороны
-
-- **Сложные интерфейсы**: data-heavy дашборды, аналитика, пользовательские сценарии
-- **AI tooling**: LLM и локальные модели в разработке, внедрение в процессы
-- **UX и доступность**: современные практики, улучшения на основе тестирования
-- **Архитектура**: масштабируемая с управлением состоянием и производительностью
-- **Координация**: agile, связь между backend, дизайном и аналитикой
-
-## Избранные проекты
+> **Примечание**: Живу и работаю в Кишинёве, Молдова.
 
 ---
 
+## Обо мне
+
+Frontend-инженер с **10+ годами в IT** и **6+ лет с Vue/Nuxt**. Последние проекты — B2B SaaS с дашбордами, аналитикой и сложными визуализациями. Строю архитектуру, которая выдерживает нагрузку и не тормозит при росте данных.
+
+Моя страсть — создавать идеально выверенные, удобные интерфейсы для людей. Ценю качественный дизайн, простоту и стиль — пользователь не должен думать, как что-то сделать.
+
+## Текущий фокус
+
+- AI-инструменты в разработке и тестировании, интеграция LLM в интерфейсы пользователя
+- MCP-серверы под Claude, OpenAI, Qwen, DeepSeek
+- Developer Experience — внедрение новых инструментов и процессов в команде
+
+## Навыки и технологии
+
+**Frontend**  
+Vue (2/3), Nuxt 3, React/Preact, Next, TypeScript, JavaScript, HTML, SCSS/SASS
+
+**Архитектура**  
+SPA, SSR, REST, WebSocket. Управление состоянием: Pinia, Redux, Zustand, Vue Router, React Router
+
+**AI и LLM**  
+Claude, OpenCode, OpenRouter, OpenWeb UI, LibreChat, LM Studio, Python для AI-скриптов
+
+**Стилизация и дизайн**  
+Tailwind, Bootstrap 5, shadcn/ui, NaiveUI, Metronic. Figma для правок макетов
+
+**Сборка и инфраструктура**  
+Vite, Webpack, npm, Git, CI/CD, Railway, GitHub Pages. Docker (для локальных тестов и деплоя)
+
+**Тестирование и отладка**
+Sentry, UX-тестирование, Vue/React/Chrome Devtools
+
+**Инструменты**  
+VS Codium, GitLens, ESLint, Prettier, MCP-серверы
+
+## Сильные стороны
+
+- Проектирование data-heavy дашбордов и аналитики для B2B-продуктов  
+- Оптимизация производительности enterprise-фронтенда  
+- Интеграция LLM и AI-ассистентов в разработку и интерфейсы  
+- Доступность (a11y) и современные практики UX  
+- Работа в Agile/Scrum, координация с бэкендом и дизайнерами
+
+## Избранные проекты
+
+_(скоро появятся)_
+
 ## Избранные достижения
+
+_(скоро появятся)_
 
 ---
 
