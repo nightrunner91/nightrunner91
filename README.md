@@ -1,16 +1,56 @@
-## Hi there 👋
+# Никита Семикин
 
-<!--
-**nightrunner91/nightrunner91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[English version](./README-en.md)
 
-Here are some ideas to get you started:
+**Lead Frontend Engineer**
+semikin91@gmail.com | [GitHub](https://github.com/nightrunner91/) | [Резюме (RU)]() | [Резюме (EN)]()
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> **Примечание**: Живу и работаю в Кишинёве, Молдова
+
+## Обо мне
+
+Frontend-инженер с фокусом на проектирование и разработку интуитивных, доступных интерфейсов для веб-приложений. **Более 10 лет в ИТ** и **более 6 лет опыта Vue/Nuxt** в создании сложных SaaS и enterprise-систем.
+
+- спроектировал архитектуру фронтенда для data-heavy дашбордов с комплексными визуализациями и аналитическими инструментами
+- разработал стратегию управления состоянием и оптимизации производительности для крупного enterprise-продукта
+- внедрил UX-улучшения на основе пользовательского тестирования и анализа обратной связи
+- работаю в agile-командах более 7 лет; координирую разработку с backend и дизайн-командами; отвечаю за долгосрочную масштабируемость фронтенд-слоя
+
+## Текущий фокус
+
+- **MCP-серверы**: специализированные серверы для работы с Anthropic Claude, OpenAI, Qwen, DeepSeek
+- **AI в production-разработке**: прагматичное внедрение AI-ассистентов в frontend-разработку, тестирование и эксплуатацию
+- **Developer Experience (DX)**: инструменты и процессы для современных команд
+
+## Ключевые навыки
+
+- **Frontend-разработка**: Vue (Vue 3, Nuxt), React, TypeScript, JavaScript (основные); Python (с помощью AI-ассистентов)
+- **Архитектура**: SPA, SSR (Nuxt), REST APIs, WebSocket, State management (Pinia, Vuex, Redux, Zustand)
+- **LLM**: Claude, OpenCode, OpenRouter, OpenWebUI, Librechat, LM Studio
+- **Стилизация** CSS/SCSS/SASS, Tailwind, Bootstrap 5, shadcn/ui, NaiveUI, Metronic, Figma (дизайн-системы)
+- **Сборка и инструменты**: Vite, Webpack, NPM, Git, CI/CD, Railway, GH Pages (основные); Docker (с помощью AI-ассистентов)
+- **Тестирование и UX**: Sentry, Usability Testing, User Experience Design (UED), Front End Engineering Design (FEED), Vue/React Devtools
+- **Инструменты разработчика**: VS Codium, Git Lens, LLMs, MCP-серверы, ESLint-плагины, инструменты отладки
+- **Дополнительно**: YouTrack, TMetric, Photoshop, Illustrator
+
+## Сильные стороны
+
+- **Сложные интерфейсы**: проектирую и реализую data-heavy дашборды, аналитические панели, пользовательские сценарии
+- **AI tooling**: интересуюсь применением LLM и локальных моделей в разработке интерфейсов, активно внедряю в рабочие процессы
+- **UX и доступность**: применяю современные UX/UI практики; улучшаю интерфейсы на основе тестирования и обратной связи
+- **Архитектура**: разрабатываю масштабируемую фронтенд-архитектуру с продуманной стратегией управления состоянием и производительностью
+- **Координация**: работаю в agile-командах; координирую задачи между backend, дизайном и аналитикой
+
+## Избранные проекты
+
+---
+
+## Избранные достижения
+
+---
+
+## Текущий фокус
+
+- **MCP-серверы**: специализированные серверы для работы с Anthropic Claude, OpenAI, Qwen, DeepSeek
+- **AI в production-разработке**: прагматичное внедрение AI-ассистентов в frontend-разработку, тестирование и эксплуатацию
+- **Developer Experience (DX)**: инструменты и процессы для современных команд
