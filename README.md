@@ -23,19 +23,19 @@ semikin91@gmail.com | [GitHub](https://github.com/nightrunner91/) | [Резюм�
 
 ## Навыки и технологии
 
-**Frontend** Vue, Nuxt, React, Preact, Next, TypeScript, JavaScript, HTML, SCSS/SASS
+**Frontend**: Vue, Nuxt, React, Preact, Next, TypeScript, JavaScript, HTML, SCSS/SASS
 
-**Архитектура** SPA, SSR, REST, WebSocket. Управление состоянием: Pinia, Redux, Zustand, Vue Router, React Router
+**Архитектура**: SPA, SSR, REST, WebSocket. Управление состоянием: Pinia, Redux, Zustand, Vue Router, React Router
 
-**AI и LLM** Claude, OpenCode, OpenRouter, OpenWeb UI, LibreChat, LM Studio, Python для AI-скриптов
+**AI и LLM**: Claude, OpenCode, OpenRouter, OpenWeb UI, LibreChat, LM Studio, Python для AI-скриптов
 
-**Стилизация и дизайн** Tailwind, Bootstrap 5, NaiveUI, Metronic, shadcn/ui. Figma для правок макетов
+**Стилизация и дизайн**: Tailwind, Bootstrap 5, NaiveUI, Metronic, shadcn/ui. Figma для правок макетов
 
-**Сборка и инфраструктура** Vite, Webpack, npm, Git, CI/CD, Railway, GitHub Pages. Docker (для локальных тестов и деплоя)
+**Сборка и инфраструктура**: Vite, Webpack, npm, Git, CI/CD, Railway, GitHub Pages. Docker (для локальных тестов и деплоя)
 
-**Тестирование и отладка** Sentry, UX-тестирование, Vue/React/Chrome Devtools
+**Тестирование и отладка**: Sentry, UX-тестирование, Vue/React/Chrome Devtools
 
-**Инструменты** VS Codium, GitLens, ESLint, Prettier, MCP-серверы
+**Инструменты**: VS Codium, GitLens, ESLint, Prettier, MCP-серверы
 
 ## Сильные стороны
 
