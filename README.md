@@ -65,6 +65,7 @@ semikin91@gmail.com | [GitHub](https://github.com/nightrunner91/) | [Резюм�
       <p>
         <a href="https://my.turrior.com/">Посмотреть проект →</a>
       </p>
+      <br />
     </td>
     <td width="50%" align="center">
       <h3 class="margin-top: 1rem;">Hexallion</h3>
@@ -78,6 +79,7 @@ semikin91@gmail.com | [GitHub](https://github.com/nightrunner91/) | [Резюм�
       <p>
         <a href="https://my.hexallion.com/">Посмотреть проект →</a>
       </p>
+      <br />
     </td>
   </tr>
   <tr>
@@ -93,6 +95,7 @@ semikin91@gmail.com | [GitHub](https://github.com/nightrunner91/) | [Резюм�
       <p>
         <a href="https://client.lycaste.com/">Посмотреть проект →</a>
       </p>
+      <br />
     </td>
     <td width="50%" align="center">
       <h3 class="margin-top: 1rem;">Arbinox</h3>
@@ -105,6 +108,7 @@ semikin91@gmail.com | [GitHub](https://github.com/nightrunner91/) | [Резюм�
       <p>
         <a href="https://platform.arbinox.com/">Посмотреть проект →</a>
       </p>
+      <br />
     </td>
   </tr>
   <tr>
@@ -120,6 +124,7 @@ semikin91@gmail.com | [GitHub](https://github.com/nightrunner91/) | [Резюм�
       <p>
         <a href="https://my.pairstrade.pro/">Посмотреть проект →</a>
       </p>
+      <br />
     </td>
     <td width="50%" align="center">
       <h3 class="margin-top: 1rem;">Hostry</h3>
@@ -133,6 +138,7 @@ semikin91@gmail.com | [GitHub](https://github.com/nightrunner91/) | [Резюм�
       <p>
         <a href="https://hostry.com/">Посмотреть проект →</a>
       </p>
+      <br />
     </td>
   </tr>
 </table>
