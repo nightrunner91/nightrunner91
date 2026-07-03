@@ -25,7 +25,7 @@ Living and working in Chișinău, Moldova. Prefer On-site / Hybrid work mode.
 
 **Frontend**: Vue, Nuxt, React, Preact, Next, TypeScript, JavaScript, HTML, SCSS/SASS
 
-**Architecture**: SPA, SSR, REST, WebSocket. State Management: Pinia, Redux, Zustand, Vue Router, React Router
+**Architecture**: SPA, SSR, REST, WebSocket, Pinia, Redux, Zustand, Vue Router, React Router
 
 **AI & LLM**: Claude, OpenCode, OpenRouter, OpenWeb UI, LibreChat, LM Studio, Python for AI scripts
 
@@ -37,7 +37,7 @@ Living and working in Chișinău, Moldova. Prefer On-site / Hybrid work mode.
 
 **Tools**: VS Codium, Swagger, Postman, GitLens, ESLint, Prettier, MCP servers
 
-**Additional**: YouTrack, TMetric, Drawio, Miro, Redmine, Tortoise SVN
+**Additional**: YouTrack, TMetric, Photoshop, Drawio, Miro, Redmine, Tortoise SVN
 
 ## Strengths
 
