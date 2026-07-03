@@ -51,94 +51,135 @@ Living and working in Chișinău, Moldova. Prefer On-site / Hybrid work mode.
 
 ## Work Projects
 
-<table align="center">
+<table>
   <tr>
-    <td width="50%" align="center">
-      <h3 class="margin-top: 1rem;">Turrior</h3>
-      <p>AI recruiting platform: candidate screening, automated interviews, response analysis, and HR service integrations.</p>
+    <td width="30%" valign="top">
+      <h3>Turrior</h3>
+      <p>AI recruiting platform.</p>
       <p>
         <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white"/>
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
         <img src="https://img.shields.io/badge/Metronic-5D5FEF?style=flat-square&logoColor=white"/>
       </p>
-      <p>
-        <a href="https://my.turrior.com/">View project →</a>
-      </p>
+      <p><a href="https://my.turrior.com/">View project →</a></p>
       <br />
     </td>
-    <td width="50%" align="center">
-      <h3 class="margin-top: 1rem;">Hexallion</h3>
-      <p>Platform for VPN/proxy service developers and providers: manage services, clients, and pricing.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white"/>
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Metronic-5D5FEF?style=flat-square&logoColor=white"/>
-      </p>
-      <p>
-        <a href="https://my.hexallion.com/">View project →</a>
-      </p>
-      <br />
+    <td width="70%" valign="top">
+      <h4>What did I do and what did I achieve?</h4>
+      <ul>
+        <li>Developed an AI candidate screening system (resume and response analysis), reducing initial selection time and improving assessment accuracy</li>
+        <li>Integrated an AI assistant powered by WebSocket and MCP servers into the personal dashboard, enabling instant consultations without switching between services</li>
+        <li>Built a chat module for HR-candidate communication, centralizing all correspondence within a single platform</li>
+        <li>Implemented asynchronous video interview functionality, allowing candidates to complete interviews at their convenience</li>
+      </ul>
     </td>
   </tr>
   <tr>
-    <td width="50%" align="center">
-      <h3 class="margin-top: 1rem;">Lycaste</h3>
-      <p>Personal dashboard for creating and tracking a user's beauty profile based on AI skin analysis.</p>
+    <td width="30%" valign="top">
+      <h3>Hexallion</h3>
+      <p>Platform for VPN/proxy service developers and providers.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white"/>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Metronic-5D5FEF?style=flat-square&logoColor=white"/>
+      </p>
+      <p><a href="https://my.hexallion.com/">View project →</a></p>
+      <br />
+    </td>
+    <td width="70%" valign="top">
+      <h4>What did I do and what did I achieve?</h4>
+      <ul>
+        <li>Built and maintained a comprehensive admin panel for managing VPN servers, providing centralized control over infrastructure and pricing</li>
+        <li>Closely collaborated with the backend development team, enabling aligned API design and faster integration</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="30%" valign="top">
+      <h3>Lycaste</h3>
+      <p>Personal beauty profile dashboard.</p>
       <p>
         <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white"/>
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
         <img src="https://img.shields.io/badge/NaiveUI-5D8AA8?style=flat-square&logoColor=white"/>
       </p>
-      <p>
-        <a href="https://client.lycaste.com/">View project →</a>
-      </p>
+      <p><a href="https://client.lycaste.com/">View project →</a></p>
       <br />
     </td>
-    <td width="50%" align="center">
-      <h3 class="margin-top: 1rem;">Arbinox</h3>
-      <p>Automated statistical arbitrage platform: market analysis, trading signals, and position management.</p>
+    <td width="70%" valign="top">
+      <h4>What did I do and what did I achieve?</h4>
+      <ul>
+        <li>Developed a facial skin health assessment system based on AI analysis and questionnaires, automating initial diagnostics</li>
+        <li>Created a beauty profile dashboard with result visualization and planning of cosmetic procedure packages</li>
+        <li>Built an AI assistant chat for user consultations on skin health, increasing engagement</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="30%" valign="top">
+      <h3>Arbinox</h3>
+      <p>Automated statistical arbitrage platform.</p>
       <p>
         <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white"/>
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
         <img src="https://img.shields.io/badge/WebSocket-010101?style=flat-square&logoColor=white"/>
       </p>
-      <p>
-        <a href="https://platform.arbinox.com/">View project →</a>
-      </p>
+      <p><a href="https://platform.arbinox.com/">View project →</a></p>
       <br />
+    </td>
+    <td width="70%" valign="top">
+      <h4>What did I do and what did I achieve?</h4>
+      <ul>
+        <li>Developed an automated arbitrage platform integrated with the Arbibot trading bot, ensuring seamless frontend-backend integration</li>
+        <li>Visualized complex statistical data through tables, charts, and diagrams updating in real time via WebSocket</li>
+        <li>Conducted a thorough UX/UI audit and implemented improvements across all project areas, enhancing interface usability</li>
+      </ul>
     </td>
   </tr>
   <tr>
-    <td width="50%" align="center">
-      <h3 class="margin-top: 1rem;">Pairstrade</h3>
-      <p>Stock screener and analytical tool for portfolio management and trade signal tracking.</p>
+    <td width="30%" valign="top">
+      <h3>Pairstrade</h3>
+      <p>Stock screener and portfolio management tool.</p>
       <p>
         <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white"/>
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
         <img src="https://img.shields.io/badge/Vuexy-7367F0?style=flat-square&logoColor=white"/>
         <img src="https://img.shields.io/badge/WebSocket-010101?style=flat-square&logoColor=white"/>
       </p>
-      <p>
-        <a href="https://my.pairstrade.pro/">View project →</a>
-      </p>
+      <p><a href="https://my.pairstrade.pro/">View project →</a></p>
       <br />
     </td>
-    <td width="50%" align="center">
-      <h3 class="margin-top: 1rem;">Hostry</h3>
-      <p>Internet service provider website: VPS, hosting, dedicated servers, DNS, VPN, and free SSL certificates.</p>
+    <td width="70%" valign="top">
+      <h4>What did I do and what did I achieve?</h4>
+      <ul>
+        <li>Developed a trading operations screening and financial portfolio management platform with an intuitive interface for market analysis</li>
+        <li>Integrated the system with a Telegram bot, enabling access to market data and notifications via messenger</li>
+        <li>Visualized historical trading pair data through detailed line and bar charts</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="30%" valign="top">
+      <h3>Hostry</h3>
+      <p>Internet service provider website.</p>
       <p>
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
         <img src="https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white"/>
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
         <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
       </p>
-      <p>
-        <a href="https://hostry.com/">View project →</a>
-      </p>
+      <p><a href="https://hostry.com/">View project →</a></p>
       <br />
+    </td>
+    <td width="70%" valign="top">
+      <h4>What did I do and what did I achieve?</h4>
+      <ul>
+        <li>Developed and maintained a large-scale internet services portal, ensuring stable performance and up-to-date content</li>
+        <li>Closely collaborated with the design team, maintaining consistent styling and strengthening the product's brand identity</li>
+      </ul>
     </td>
   </tr>
 </table>
