@@ -120,6 +120,26 @@ Living and working in Chișinău, Moldova. Prefer On-site / Hybrid work mode.
   </tr>
   <tr>
     <td width="30%" valign="top">
+      <h3>Settle Global Solutions</h3>
+      <p>Blockchain powered settlements and smart contracts.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white"/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+      </p>
+      <p><a href="https://settleglobalsolutions.com/">Посмотреть проект →</a></p>
+      <br />
+    </td>
+    <td width="70%" valign="top">
+      <h4>What did I do and what did I achieve?</h4>
+      <ul>
+        <li>Developed a real-time dashboard for tracking smart contracts and blockchain settlements, including account balances, incoming and outgoing transactions, and a reporting system with CSV export.</li>
+        <li>Collaborated with the design team on a UX/UI audit and significantly improved visual authenticity and user experience — migrated from WordPress to Vue with a custom UI kit.</li>
+        <li>Worked closely with a backend engineer to improve API contracts: streamlined documentation and typing, migrated away from legacy REST, and prepared the system for a technical audit.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="30%" valign="top">
       <h3>Arbinox</h3>
       <p>Automated statistical arbitrage platform.</p>
       <p>

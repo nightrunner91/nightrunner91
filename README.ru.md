@@ -120,6 +120,26 @@
   </tr>
   <tr>
     <td width="30%" valign="top">
+      <h3>Settle Global Solutions</h3>
+      <p>Глобальные платежи и смарт контракты на базе Blockhain.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white"/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+      </p>
+      <p><a href="https://settleglobalsolutions.com/">Посмотреть проект →</a></p>
+      <br />
+    </td>
+    <td width="70%" valign="top">
+      <h4>Чем занимался и чего достиг?</h4>
+      <ul>
+        <li>Разработал дашборд для отслеживания смарт-контрактов и блокчейн-расчётов в реальном времени: балансы счетов, входящие и исходящие транзакции, система отчётов с экспортом в CSV.</li>
+        <li>Совместно с командой дизайнеров участвовал в UX/UI-аудите и кардинально улучшил визуальную аутентичность и пользовательский опыт (переход с WordPress на Vue с кастомным UI-китом).</li>
+        <li>Работал в паре с бэкенд-разработчиком над улучшением API-контрактов: привели в порядок документацию и типизацию, отказались от устаревшего REST и подготовились к техническому аудиту.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="30%" valign="top">
       <h3>Arbinox</h3>
       <p>Автоматизированная платформа статистического арбитража.</p>
       <p>
