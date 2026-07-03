@@ -73,6 +73,7 @@ Living and working in Chișinău, Moldova. Prefer On-site / Hybrid work mode.
         <li>Built a chat module for HR-candidate communication, centralizing all correspondence within a single platform</li>
         <li>Implemented asynchronous video interview functionality, allowing candidates to complete interviews at their convenience</li>
       </ul>
+      <br />
     </td>
   </tr>
   <tr>
@@ -126,7 +127,7 @@ Living and working in Chișinău, Moldova. Prefer On-site / Hybrid work mode.
         <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white"/>
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
       </p>
-      <p><a href="https://settleglobalsolutions.com/">Посмотреть проект →</a></p>
+      <p><a href="https://settleglobalsolutions.com/">View project →</a></p>
       <br />
     </td>
     <td width="70%" valign="top">
@@ -136,6 +137,7 @@ Living and working in Chișinău, Moldova. Prefer On-site / Hybrid work mode.
         <li>Collaborated with the design team on a UX/UI audit and significantly improved visual authenticity and user experience (migrated from WordPress to Vue with a custom UI kit).</li>
         <li>Worked closely with a backend engineer to improve API contracts: streamlined documentation and typing, migrated away from legacy REST, and prepared the system for a technical audit.</li>
       </ul>
+      <br />
     </td>
   </tr>
   <tr>
