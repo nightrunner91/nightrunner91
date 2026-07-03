@@ -1,6 +1,6 @@
 # Semikin Nikita
 
-[<img src="https://flagcdn.com/w20/ru.png" width="20"> Russian version](./README.ru.md)
+[<img src="https://flagcdn.com/w20/ru.png" width="20"> Русская версия](./README.ru.md)
 
 **Senior Frontend Engineer**  
 <a href="mailto:semikin91@gmail.com">semikin91@gmail.com</a> | [GitHub](https://github.com/nightrunner91/) | [LinkedIn](https://www.linkedin.com/in/semikin-nikita/) | [Telegram](https://t.me/nightrunner91)
