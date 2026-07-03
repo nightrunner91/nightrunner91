@@ -37,7 +37,7 @@
 
 **Инструменты**: VS Codium, Swagger, Postman, GitLens, MCP-серверы, ESLint, Prettier
 
-**Дополнительно**: YouTrack, TMetric, Drawio, Miro, Redmine, Tortoise SVN
+**Дополнительно**: YouTrack, TMetric, Drawio, Photoshop, Miro, Redmine, Tortoise SVN
 
 ## Сильные стороны
 
