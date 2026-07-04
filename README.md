@@ -117,6 +117,7 @@ Living and working in Chișinău, Moldova. Prefer On-site / Hybrid work mode.
         <li>Created a beauty profile dashboard with result visualization and planning of cosmetic procedure packages</li>
         <li>Built an AI assistant chat for user consultations on skin health, increasing engagement</li>
       </ul>
+      <br />
     </td>
   </tr>
   <tr>
@@ -133,9 +134,9 @@ Living and working in Chișinău, Moldova. Prefer On-site / Hybrid work mode.
     <td width="70%" valign="top">
       <h4>What did I do and what did I achieve?</h4>
       <ul>
-        <li>Developed a real-time dashboard for tracking smart contracts and blockchain settlements, including account balances, incoming and outgoing transactions, and a reporting system with CSV export.</li>
-        <li>Collaborated with the design team on a UX/UI audit and significantly improved visual authenticity and user experience (migrated from WordPress to Vue with a custom UI kit).</li>
-        <li>Worked closely with a backend engineer to improve API contracts: streamlined documentation and typing, migrated away from legacy REST, and prepared the system for a technical audit.</li>
+        <li>Developed a real-time dashboard for tracking smart contracts and blockchain settlements, including balances, transactions, and a reporting system</li>
+        <li>Collaborated with the design team on a UX/UI audit and significantly improved visual authenticity and UX (migrated from WordPress to Vue with a custom UI kit)</li>
+        <li>Worked closely with a backend engineer to improve API contracts: streamlined documentation and typing, migrated away from legacy REST, and prepared the system for a technical audit</li>
       </ul>
       <br />
     </td>
