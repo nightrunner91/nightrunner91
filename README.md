@@ -11,7 +11,7 @@
 
 Hi. I'm a Frontend engineer with **10+ years in IT** and **6+ years with Vue/Nuxt**. Typical projects - B2B SaaS with dashboards, analytics, and complex visualizations, personal accounts, admin panels. I build architecture that handles load and doesn't slow down as data grows.
 
-My passion is creating perfectly crafted, user-friendly interfaces. I value quality design, simplicity, and style. I practice systematic approaches in development.
+My passion is creating perfectly crafted, user-friendly interfaces. I value quality design, simplicity, and style.
 
 Living and working in Chișinău, Moldova. Prefer On-site / Hybrid work mode.
 
@@ -44,6 +44,8 @@ Living and working in Chișinău, Moldova. Prefer On-site / Hybrid work mode.
 - **Context Retention**: successfully maintain multiple large-scale projects over the long term; navigate the stack, legacy code, and business solutions; provide accurate estimations
 
 - **Architectural Soundness**: I choose solutions that pay off in the long run: strict typing, decomposition, avoiding rushed compromises, which reduces debugging time and simplifies maintenance
+
+- **QA Mindset**: I don't just write markup - I build UI with the expectation of how it will break. Systematic approach to edge cases and visual consistency reduces bug count in UAT by a noticeable margin.
 
 - **AI Tooling**: not just a Copilot subscription, but my own toolkit: plugins for Claude Code, MCP servers, integration with the corporate stack. I treat it as a tool - AI should augment the engineer, not replace them
 
