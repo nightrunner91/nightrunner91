@@ -45,7 +45,7 @@ Living and working in Chișinău, Moldova. Prefer On-site / Hybrid work mode.
 
 - **Architectural Soundness**: I choose solutions that pay off in the long run: strict typing, decomposition, avoiding rushed compromises, which reduces debugging time and simplifies maintenance
 
-- **QA Mindset**: I don't just write markup - I build UI with the expectation of how it will break. Systematic approach to edge cases and visual consistency reduces bug count in UAT by a noticeable margin.
+- **QA Mindset**: I don't just write markup - I build UI with the expectation of how it will break. Systematic approach to edge cases and visual consistency reduces bug count in UAT by a noticeable margin
 
 - **AI Tooling**: not just a Copilot subscription, but my own toolkit: plugins for Claude Code, MCP servers, integration with the corporate stack. I treat it as a tool - AI should augment the engineer, not replace them
 
