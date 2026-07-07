@@ -49,8 +49,6 @@ Living and working in Chișinău, Moldova. Prefer On-site / Hybrid work mode.
 
 - **Quick Adaptability**: I regularly learn and adopt modern tools and apply them in production projects right after mastering them, increasing productivity
 
-- **Agile/Scrum Experience**: regular coordination with backend and designers, sprints, deadlines, backlogs, and meetings - all part of my daily routine
-
 ## Work Projects
 
 <table>
