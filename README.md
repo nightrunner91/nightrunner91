@@ -41,13 +41,15 @@ Living and working in Chișinău, Moldova. Prefer On-site / Hybrid work mode.
 
 ## Strengths
 
-- **Context Retention & Responsibility**: successfully maintain multiple large-scale projects over the long term; navigate the stack, legacy code, and business solutions; provide accurate estimations
+- **Context Retention**: successfully maintain multiple large-scale projects over the long term; navigate the stack, legacy code, and business solutions; provide accurate estimations
 
-- **AI tooling**: not just a Copilot subscription, but my own toolkit: plugins for Claude Code, MCP servers, integration with the corporate stack. I treat it as a tool - AI should augment the engineer, not replace them
+- **Architectural Soundness**: I choose solutions that pay off in the long run: strict typing, decomposition, avoiding rushed compromises, which reduces debugging time and simplifies maintenance
 
-- **«Craft Over Speed»**: I reject the "just make it work" mentality and build reliable systems that pay off in the long run; declarative code, strict typing, maximum decomposition - and no rushed decisions
+- **AI Tooling**: not just a Copilot subscription, but my own toolkit: plugins for Claude Code, MCP servers, integration with the corporate stack. I treat it as a tool — AI should augment the engineer, not replace them
 
-- **Years of Agile/Scrum experience**: regular coordination with backend and designers, sprints, deadlines, backlogs, and meetings - all part of my daily routine
+- **Quick Adaptability**: I regularly learn and adopt modern tools and apply them in production projects right after mastering them, increasing productivity
+
+- **Agile/Scrum Experience**: regular coordination with backend and designers, sprints, deadlines, backlogs, and meetings — all part of my daily routine
 
 ## Work Projects
 
