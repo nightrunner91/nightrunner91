@@ -1,25 +1,23 @@
 # Semikin Nikita
 
-[<img src="https://flagcdn.com/w20/ru.png" width="20"> Русская версия](./README.ru.md)
-
 **Senior Frontend Engineer**  
 <a href="mailto:semikin91@gmail.com">semikin91@gmail.com</a> | [GitHub](https://github.com/nightrunner91/) | [LinkedIn](https://www.linkedin.com/in/semikin-nikita/) | [Telegram](https://t.me/nightrunner91)
 
 ---
 
-## About Me
+Frontend Engineer with **10+ years** of experience in software development and **6+ years** in Vue, React and TypeScript.
 
-Hi. I'm a Frontend engineer with **10+ years in IT** and **6+ years with Vue/Nuxt**. Typical projects - B2B SaaS with dashboards, analytics, and complex visualizations, personal accounts, admin panels. I build architecture that handles load and doesn't slow down as data grows.
+Expert in building robust client-side architecture, integrating complex APIs, and designing intuitive UI/UX. Proven track record in B2B/B2C SaaS, delivering high-performance dashboards, analytics platforms, and complex data visualizations that scale seamlessly with growing data volume.
 
-My passion is creating perfectly crafted, user-friendly interfaces. I value quality design, simplicity, and style.
+Passionate about clean code, functional design, and elegant user interfaces.
 
-Living and working in Chișinău, Moldova. Prefer On-site / Hybrid work mode.
+📍 Living and working in Chișinău, Moldova. Prefer On-site / Hybrid work mode.
 
 ## Current Focus
 
-- AI tools in development and testing, LLM integration in user interfaces
-- MCP servers for Claude, OpenAI, Qwen, DeepSeek
-- Developer Experience - introducing new tools and processes in teams
+- AI tools in development and testing
+- LLM integration in user interfaces
+- Product thinking
 
 ## Skills & Technologies
 
