@@ -21,21 +21,21 @@ Passionate about clean code, functional design, and elegant user interfaces.
 
 ## Skills & Technologies
 
-**Frontend**: Vue / Nuxt, React / Next.js, TypeScript, JavaScript, HTML, SCSS/SASS
+- **Frontend**: Vue / Nuxt, React / Next.js, TypeScript, JavaScript, HTML, SCSS/SASS
 
-**Architecture**: SPA, SSR, REST, WebSocket, Pinia, Redux, Zustand, Vue Router, React Router
+- **Architecture**: SPA, SSR, REST, WebSocket, Pinia, Redux, Zustand, Vue Router, React Router
 
-**AI & LLM**: Claude Code, OpenCode, OpenRouter, LM Studio, Ollama
+- **AI & LLM**: Claude Code, OpenCode, OpenRouter, LM Studio, Ollama
 
-**Styling & Design**: shadcn/ui, Figma, Tailwind, Bootstrap 5, NaiveUI, Metronic, Vuexy
+- **Styling & Design**: shadcn/ui, Figma, Tailwind, Bootstrap 5, NaiveUI, Metronic, Vuexy
 
-**Build & Infrastructure**: Vite, Webpack, npm, Git, CI/CD, Docker
+- **Build & Infrastructure**: Vite, Webpack, npm, Git, CI/CD, Docker
 
-**Testing & Debugging**: Vitest, Playwright, Sentry, UX testing and audit, Vue/React/Chrome Devtools
+- **Testing & Debugging**: Vitest, Playwright, Sentry, UX testing and audit, Vue/React/Chrome Devtools
 
-**Tools**: VS Codium, Swagger, Postman, GitLens, ESLint, Prettier, MCP servers
+- **Tools**: VS Codium, Swagger, Postman, GitLens, ESLint, Prettier, MCP servers
 
-**Additional**: YouTrack, TMetric, Photoshop, Drawio, Miro, Redmine, Tortoise SVN
+- **Additional**: YouTrack, TMetric, Photoshop, Drawio, Miro, Redmine, Tortoise SVN
 
 ## Strengths
 
