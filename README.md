@@ -21,17 +21,17 @@ Passionate about clean code, functional design, and elegant user interfaces.
 
 ## Skills & Technologies
 
-**Frontend**: Vue, Nuxt, React, Preact, Next, TypeScript, JavaScript, HTML, SCSS/SASS
+**Frontend**: Vue / Nuxt, React / Next.js, TypeScript, JavaScript, HTML, SCSS/SASS
 
 **Architecture**: SPA, SSR, REST, WebSocket, Pinia, Redux, Zustand, Vue Router, React Router
 
-**AI & LLM**: Claude, OpenCode, OpenRouter, OpenWeb UI, LibreChat, LM Studio, Python for AI scripts
+**AI & LLM**: Claude Code, OpenCode, OpenRouter, LM Studio, Ollama
 
-**Styling & Design**: Tailwind, Bootstrap 5, NaiveUI, Metronic, Vuexy, shadcn/ui, Figma
+**Styling & Design**: shadcn/ui, Figma, Tailwind, Bootstrap 5, NaiveUI, Metronic, Vuexy
 
-**Build & Infrastructure**: Vite, Webpack, npm, Git, CI/CD, Railway, GitHub Pages. Docker (with AI)
+**Build & Infrastructure**: Vite, Webpack, npm, Git, CI/CD, Docker
 
-**Testing & Debugging**: Sentry, UX testing, Vue/React/Chrome Devtools
+**Testing & Debugging**: Vitest, Playwright, Sentry, UX testing and audit, Vue/React/Chrome Devtools
 
 **Tools**: VS Codium, Swagger, Postman, GitLens, ESLint, Prettier, MCP servers
 
@@ -39,15 +39,13 @@ Passionate about clean code, functional design, and elegant user interfaces.
 
 ## Strengths
 
-- **Context Retention**: successfully maintain multiple large-scale projects over the long term; navigate the stack, legacy code, and business solutions; provide accurate estimations
+- **Architectural Soundness**: I choose long-term payoff solutions - strict typing, decomposition, no rushed compromises. This reduces debugging time and maintenance cost.
 
-- **Architectural Soundness**: I choose solutions that pay off in the long run: strict typing, decomposition, avoiding rushed compromises, which reduces debugging time and simplifies maintenance
+- **AI Tooling**: Not just a Copilot subscription, but my own kit - plugins, scripts, MCP servers, corporate stack integration. AI should augment the engineer, not replace them.
 
-- **QA Mindset**: I don't just write markup - I build UI with the expectation of how it will break. Systematic approach to edge cases and visual consistency reduces bug count in UAT by a noticeable margin
+- **Context Retention**: Successfully maintain multiple large-scale projects long-term; navigate stack, legacy code, and business logic; provide accurate estimates.
 
-- **AI Tooling**: not just a Copilot subscription, but my own toolkit: plugins for Claude Code, MCP servers, integration with the corporate stack. I treat it as a tool - AI should augment the engineer, not replace them
-
-- **Quick Adaptability**: I regularly learn and adopt modern tools and apply them in production projects right after mastering them, increasing productivity
+- **QA Mindset**: I don't just produce code - I build UI anticipating how it could break. Systematic approach to edge cases and visual consistency measurably reduces UAT bug count.
 
 ## Work Projects
 
