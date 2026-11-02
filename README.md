@@ -17,7 +17,7 @@ Passionate about clean code, functional design, and elegant user interfaces.
 ## Current Focus
 
 - AI tools in development and testing
-- LLM integration in user interfaces
+- System design
 - Product thinking
 
 ## Skills & Technologies
