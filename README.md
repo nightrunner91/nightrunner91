@@ -1,6 +1,7 @@
 # Semikin Nikita
 
-**Senior Frontend Engineer**  
+**Senior Frontend Engineer | Vue, React, TypeScript | AI-Augmented Development**
+
 <a href="mailto:semikin91@gmail.com">semikin91@gmail.com</a> | [GitHub](https://github.com/nightrunner91/) | [LinkedIn](https://www.linkedin.com/in/semikin-nikita/) | [Telegram](https://t.me/nightrunner91)
 
 ---
@@ -211,7 +212,7 @@ Small things I build for myself - tools, experiments and side quests.
 
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" align="center">
       <h3><a href="https://github.com/nightrunner91/listify">Listify</a></h3>
       <p>Personal media tracker for games, films, books and anything else - no ads, no social feed.</p>
       <p>
@@ -219,10 +220,9 @@ Small things I build for myself - tools, experiments and side quests.
         <img src="https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white"/>
         <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
       </p>
-      <p><a href="https://listify-me.up.railway.app">Live demo →</a>
-      <br />
+      <p><a href="https://github.com/nightrunner91/listify">View project →</a><br />&nbsp;</p>
     </td>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" align="center">
       <h3><a href="https://github.com/nightrunner91/prepra">Prepra</a></h3>
       <p>Interactive prep platform for frontend interviews: 170+ articles, progress tracking and mock interviews.</p>
       <p>
@@ -230,12 +230,11 @@ Small things I build for myself - tools, experiments and side quests.
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
         <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
       </p>
-      <p><a href="https://nightrunner91.github.io/prepra/">Live demo →</a>
-      <br />
+      <p><a href="https://github.com/nightrunner91/prepra">View project →</a><br />&nbsp;</p>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" align="center">
       <h3><a href="https://github.com/nightrunner91/pipebot">Pipebot</a></h3>
       <p>Webhook relay that turns GitLab CI/CD pipeline events into readable Telegram notifications.</p>
       <p>
@@ -243,10 +242,9 @@ Small things I build for myself - tools, experiments and side quests.
         <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
         <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white"/>
       </p>
-      <p><a href="https://github.com/nightrunner91/pipebot">View project →</a></p>
-      <br />
+      <p><a href="https://github.com/nightrunner91/pipebot">View project →</a><br />&nbsp;</p>
     </td>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" align="center">
       <h3><a href="https://github.com/nightrunner91/telepost">Telepost</a></h3>
       <p>Tiny Telegram userbot that schedules photo posts from a local folder.</p>
       <p>
@@ -254,12 +252,11 @@ Small things I build for myself - tools, experiments and side quests.
         <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
         <img src="https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white"/>
       </p>
-      <p><a href="https://github.com/nightrunner91/telepost">View project →</a></p>
-      <br />
+      <p><a href="https://github.com/nightrunner91/telepost">View project →</a><br />&nbsp;</p>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" align="center">
       <h3><a href="https://github.com/nightrunner91/fetcho">Fetcho</a></h3>
       <p>Chromium extension for grabbing videos from social media in a couple of clicks.</p>
       <p>
@@ -267,21 +264,21 @@ Small things I build for myself - tools, experiments and side quests.
         <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
         <img src="https://img.shields.io/badge/Manifest%20V3-orange?style=flat-square&logo=googlechrome&logoColor=white"/>
       </p>
-      <p><a href="https://github.com/nightrunner91/fetcho">View project →</a></p>
-      <br />
+      <p><a href="https://github.com/nightrunner91/fetcho">View project →</a><br />&nbsp;</p>
     </td>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" align="center">
       <h3><a href="https://github.com/nightrunner91/jan">Jan</a></h3>
       <p>Collection of AI personalities (alters) for OpenWebUI, LibreChat and local LLMs.</p>
       <p>
         <img src="https://img.shields.io/badge/OpenWebUI-FF6B35?style=flat-square&logoColor=white"/>
         <img src="https://img.shields.io/badge/Prompt%20Engineering-6E56CF?style=flat-square&logoColor=white"/>
       </p>
-      <p><a href="https://github.com/nightrunner91/jan">View project →</a></p>
-      <br />
+      <p><a href="https://github.com/nightrunner91/jan">View project →</a><br />&nbsp;</p>
     </td>
   </tr>
 </table>
+
+More experiments live on [GitHub](https://github.com/nightrunner91/).
 
 ---
 
