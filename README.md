@@ -1,52 +1,39 @@
 # Semikin Nikita
 
-**Senior Frontend Engineer | Vue, React, TypeScript | AI-Augmented Development**
+**Senior Frontend Engineer | Vue / Nuxt, TypeScript | AI-Augmented Development**
 
 <a href="mailto:semikin91@gmail.com">semikin91@gmail.com</a> | [GitHub](https://github.com/nightrunner91/) | [LinkedIn](https://www.linkedin.com/in/semikin-nikita/) | [Telegram](https://t.me/nightrunner91)
 
 ---
 
-Frontend Engineer with **10+ years** of experience in software development and **6+ years** in Vue, React and TypeScript.
+Senior Frontend Engineer with 8+ years delivering products from prototype to production: architecture, estimates, long-term maintenance. Strong on AI tooling (LLM, MCP, Claude Code), strict typing, and decomposition. Focused on product thinking and feature delivery.
 
-Expert in building robust client-side architecture, integrating complex APIs, and designing intuitive UI/UX. Proven track record in B2B/B2C SaaS, delivering high-performance dashboards, analytics platforms, and complex data visualizations that scale seamlessly with growing data volume.
+**Core stack**: Vue 3 / Nuxt / TypeScript.
+**Specialization**: Data-heavy dashboards, complex UX workflows, real-time WebSocket systems, admin panels and personal cabinets over complex APIs.
+**Domains**: AI, fintech, blockchain, infrastructure, commercial websites, landing pages.
 
-Passionate about clean code, functional design, and elegant user interfaces.
+## Skills & Technologies
 
-📍 Living and working in Chișinău, Moldova. Prefer On-site / Hybrid work mode.
+- **Frontend**: Vue 3 / Nuxt, TypeScript, JavaScript, HTML, SCSS
+- **State & Data**: Pinia, Zustand, Vue Router, REST, WebSocket
+- **AI Tooling**: Claude Code, OpenCode, OpenRouter, LM Studio, Ollama, MCP servers
+- **UI & Design**: Figma, Tailwind, shadcn/ui, Naive UI, Bootstrap 5
+- **Build & Infra**: Vite, Webpack, npm, Git, CI/CD, Docker
+- **Testing & Debugging**: Vitest, Playwright, Sentry, Devtools
+- **Workflow**: Swagger / OpenAPI, Postman, YouTrack, Linear, Miro, Draw.io
+
+## Strengths
+
+- **Architectural Soundness**: I choose long-term payoff solutions - strict typing, decomposition, no rushed compromises. This reduces debugging time and maintenance cost.
+- **AI Tooling**: Not just a Copilot subscription, but my own kit - plugins, scripts, MCP servers, corporate stack integration. AI should augment the engineer, not replace them.
+- **Context Retention**: Successfully maintain multiple large-scale projects long-term; navigate stack, legacy code, and business logic; provide accurate estimates.
+- **QA Mindset**: I don't just produce code - I build UI anticipating how it could break. Systematic approach to edge cases and visual consistency measurably reduces UAT bug count.
 
 ## Current Focus
 
 - AI tools in development and testing
 - System design
 - Product thinking
-
-## Skills & Technologies
-
-- **Frontend**: Vue / Nuxt, React / Next.js, TypeScript, JavaScript, HTML, SCSS/SASS
-
-- **Architecture**: SPA, SSR, REST, WebSocket, Pinia, Redux, Zustand, Vue Router, React Router
-
-- **AI & LLM**: Claude Code, OpenCode, OpenRouter, LM Studio, Ollama
-
-- **Styling & Design**: shadcn/ui, Figma, Tailwind, Bootstrap 5, NaiveUI, Metronic, Vuexy
-
-- **Build & Infrastructure**: Vite, Webpack, npm, Git, CI/CD, Docker
-
-- **Testing & Debugging**: Vitest, Playwright, Sentry, UX testing and audit, Vue/React/Chrome Devtools
-
-- **Tools**: VS Codium, Swagger, Postman, GitLens, ESLint, Prettier, MCP servers
-
-- **Additional**: YouTrack, TMetric, Photoshop, Drawio, Miro, Redmine, Tortoise SVN
-
-## Strengths
-
-- **Architectural Soundness**: I choose long-term payoff solutions - strict typing, decomposition, no rushed compromises. This reduces debugging time and maintenance cost.
-
-- **AI Tooling**: Not just a Copilot subscription, but my own kit - plugins, scripts, MCP servers, corporate stack integration. AI should augment the engineer, not replace them.
-
-- **Context Retention**: Successfully maintain multiple large-scale projects long-term; navigate stack, legacy code, and business logic; provide accurate estimates.
-
-- **QA Mindset**: I don't just produce code - I build UI anticipating how it could break. Systematic approach to edge cases and visual consistency measurably reduces UAT bug count.
 
 ## Work Projects
 
