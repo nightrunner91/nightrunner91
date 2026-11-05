@@ -8,9 +8,9 @@
 
 Senior Frontend Engineer with 8+ years delivering products from prototype to production: architecture, estimates, long-term maintenance. Strong on AI tooling (LLM, MCP, Claude Code), strict typing, and decomposition. Focused on product thinking and feature delivery.
 
-**Core stack**: Vue 3 / Nuxt / TypeScript.
-**Specialization**: Data-heavy dashboards, complex UX workflows, real-time WebSocket systems, admin panels and personal cabinets over complex APIs.
-**Domains**: AI, fintech, blockchain, infrastructure, commercial websites, landing pages.
+- **Core stack**: Vue 3 / Nuxt / TypeScript.
+- **Specialization**: Data-heavy dashboards, complex UX workflows, real-time WebSocket systems, admin panels and personal cabinets over complex APIs.
+- **Domains**: AI, fintech, blockchain, infrastructure, commercial websites, landing pages.
 
 ## Skills & Technologies
 
