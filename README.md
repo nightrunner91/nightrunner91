@@ -6,33 +6,28 @@
 
 ---
 
-## About
-
 Product Engineer with 8+ years in frontend. I take products from prototype to production in Vue and React. I come at frontend work from the product side, focus on getting new features shipped, and care about the codebase I leave behind.\
 I use Claude Code, MCP servers and my own tooling to move faster inside a company's existing stack and codebase. My core principal: AI should augment engineers, not replace them.
 
-- Tech stack: Vue / React / TypeScript.
-- Domains: AI platforms, HR tech, fintech, healthtech, trading, blockchain, infrastructure.
-- Experience: complex UX workflows, dashboards, real-time websocket systems, admin panels, personal cabinets, commercial websites, landing pages.
+- **Tech stack:** Vue / React / TypeScript.
+- **Domains:** AI platforms, HR tech, fintech, healthtech, trading, blockchain, infrastructure.
+- **Experience:** complex UX workflows, dashboards, real-time websocket systems, admin panels, personal cabinets, commercial websites, landing pages.
 
-SKILLS
+# SKILLS
 
-- Frontend: Vue, React, Nuxt, Next.js, TypeScript, JavaScript, HTML, SCSS
-- State & Data: Pinia, Zustand, Tanstack Query, Vue/React Router, REST API, WebSocket
-- AI Tooling: Claude Code, OpenCode, MCP servers, OpenRouter, LM Studio, Ollama
-- UI & Design: Figma, Tailwind, shadcn/ui, Bootstrap 5
-- Build & Infra: Vite, Webpack, CI/CD, Docker, npm, Git
-- Testing & Debugging: Vitest, Playwright, Sentry, Chrome Devtools
-- Workflow: Swagger, OpenAPI, Postman, YouTrack, Linear, Miro, Slack
+- **Frontend:** Vue, React, Nuxt, Next.js, TypeScript, JavaScript, HTML, SCSS
+- **State & Data:** Pinia, Zustand, Tanstack Query, Vue/React Router, REST API, WebSocket
+- **AI Tooling:** Claude Code, OpenCode, MCP servers, OpenRouter, LM Studio, Ollama
+- **UI & Design:** Figma, Tailwind, shadcn/ui, Bootstrap 5
+- **Build & Infra:** Vite, Webpack, CI/CD, Docker, npm, Git
+- **Testing & Debugging:** Vitest, Playwright, Sentry, Chrome Devtools
+- **Workflow:** Swagger, OpenAPI, Postman, YouTrack, Linear, Miro, Slack
 
 ## Featured projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://nightrunner91.github.io/prepra/">
-        <img src="https://raw.githubusercontent.com/nightrunner91/prepra/main/site/public/preview.jpg" alt="Prepra - interview prep platform" width="100%" />
-      </a>
       <h3><a href="https://github.com/nightrunner91/prepra">Prepra</a></h3>
       <p>Interview prep platform for frontend engineers: 208 articles in 16 sections, 160+ practice tasks with auto-checks, and an interview mode that maps your weak topics.</p>
       <p>
@@ -42,11 +37,9 @@ SKILLS
         <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
       </p>
       <p><a href="https://nightrunner91.github.io/prepra/"><b>Live demo</b></a> · <a href="https://github.com/nightrunner91/prepra">Source</a></p>
+      <br />&nbsp;
     </td>
     <td width="50%" valign="top">
-      <a href="https://listify-me.up.railway.app/">
-        <img src="https://raw.githubusercontent.com/nightrunner91/listify/main/public/listify-preview.png" alt="Listify - personal media tracker" width="100%" />
-      </a>
       <h3><a href="https://github.com/nightrunner91/listify">Listify</a></h3>
       <p>Personal media tracker for games, films, books and music: no ads, no social feed, full export of your data. Runs as a real product with its own Fastify backend and Postgres database.</p>
       <p>
@@ -56,6 +49,7 @@ SKILLS
         <img src="https://img.shields.io/badge/Drizzle-C5F74F?style=flat-square&logo=drizzle&logoColor=black"/>
       </p>
       <p><a href="https://listify-me.up.railway.app/"><b>Live demo</b></a> · <a href="https://github.com/nightrunner91/listify">Source</a></p>
+      <br />&nbsp;
     </td>
   </tr>
 </table>
@@ -65,9 +59,6 @@ SKILLS
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://nightrunner91.github.io/riff/">
-        <img src="https://raw.githubusercontent.com/nightrunner91/riff/main/assets/preview.png" alt="Riff - JavaScript playground" width="72%" />
-      </a>
       <h3><a href="https://github.com/nightrunner91/riff">Riff</a></h3>
       <p>A pocket-sized JavaScript playground: editor on top, console below, a fresh sandbox on every run. One HTML file, no build step, no account.</p>
       <p>
@@ -75,11 +66,9 @@ SKILLS
         <img src="https://img.shields.io/badge/No%20dependencies-3C3C3C?style=flat-square"/>
       </p>
       <p><a href="https://nightrunner91.github.io/riff/"><b>Live demo</b></a> · <a href="https://github.com/nightrunner91/riff">Source</a></p>
+      <br />&nbsp;
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/nightrunner91/huge-clock">
-        <img src="https://raw.githubusercontent.com/nightrunner91/huge-clock/main/screenshots/landscape.jpg" alt="Huge Clock - GNOME Shell extension" width="100%" />
-      </a>
       <h3><a href="https://github.com/nightrunner91/huge-clock">Huge Clock</a></h3>
       <p>GNOME Shell extension that paints a huge thin clock on the wallpaper: one per monitor, never in Alt+Tab, never steals a click.</p>
       <p>
@@ -87,13 +76,11 @@ SKILLS
         <img src="https://img.shields.io/badge/GJS-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
       </p>
       <p><a href="https://github.com/nightrunner91/huge-clock">Source</a></p>
+      <br />&nbsp;
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/nightrunner91/jan">
-        <img src="https://raw.githubusercontent.com/nightrunner91/jan/main/assets/logo-en.png" alt="Jan - AI personalities" width="100%" />
-      </a>
       <h3><a href="https://github.com/nightrunner91/jan">Jan</a></h3>
       <p>A collection of AI personalities for OpenWebUI and local LLMs: one model, different system prompts, skills and knowledge. Add an alter by editing text, not by deploying a model.</p>
       <p>
@@ -101,11 +88,9 @@ SKILLS
         <img src="https://img.shields.io/badge/Prompt%20Engineering-6E56CF?style=flat-square"/>
       </p>
       <p><a href="https://github.com/nightrunner91/jan">Source</a></p>
+      <br />&nbsp;
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/nightrunner91/fetcho">
-        <img src="https://raw.githubusercontent.com/nightrunner91/fetcho/main/src/assets/fetcho-preview-light.png" alt="Fetcho - Chromium extension" width="70%" />
-      </a>
       <h3><a href="https://github.com/nightrunner91/fetcho">Fetcho</a></h3>
       <p>Chromium extension that recognizes the platform behind a video link, routes it to the right downloader and clicks through for you: Instagram, X, YouTube Shorts, TikTok, Reddit, Facebook.</p>
       <p>
@@ -114,6 +99,7 @@ SKILLS
         <img src="https://img.shields.io/badge/Manifest%20V3-orange?style=flat-square&logo=googlechrome&logoColor=white"/>
       </p>
       <p><a href="https://github.com/nightrunner91/fetcho">Source</a></p>
+      <br />&nbsp;
     </td>
   </tr>
   <tr>
@@ -125,6 +111,7 @@ SKILLS
         <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=node.js&logoColor=white"/>
       </p>
       <p><a href="https://github.com/nightrunner91/mentor">Source</a></p>
+      <br />&nbsp;
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/nightrunner91/pipebot">Pipebot</a></h3>
@@ -135,10 +122,11 @@ SKILLS
         <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white"/>
       </p>
       <p><a href="https://github.com/nightrunner91/pipebot">Source</a></p>
+      <br />&nbsp;
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="100%" colspan="2" valign="top">
       <h3><a href="https://github.com/nightrunner91/telepost">Telepost</a></h3>
       <p>Telegram userbot that posts photos from a local folder on a schedule, randomizes delivery times and never sends the same file twice.</p>
       <p>
@@ -147,16 +135,7 @@ SKILLS
         <img src="https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white"/>
       </p>
       <p><a href="https://github.com/nightrunner91/telepost">Source</a></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Archive</h3>
-      <p>Earlier experiments and boilerplates that started it all: a Vue 2 boilerplate, a client-side media list, a Webpack/SCSS starter and a userscript for MyVideoGameList.</p>
-      <p>
-        <a href="https://github.com/nightrunner91/nightvue">Nightvue</a> ·
-        <a href="https://github.com/nightrunner91/nightlist">Nightlist</a> ·
-        <a href="https://github.com/nightrunner91/nightpack">Nightpack</a> ·
-        <a href="https://github.com/nightrunner91/mvgl-advanced">MVGL Advanced</a>
-      </p>
+      <br />&nbsp;
     </td>
   </tr>
 </table>
