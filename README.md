@@ -13,7 +13,7 @@ I use Claude Code, MCP servers and my own tooling to move faster inside a compan
 - **Domains:** AI platforms, HR tech, fintech, healthtech, trading, blockchain, infrastructure.
 - **Experience:** complex UX workflows, dashboards, real-time websocket systems, admin panels, personal cabinets, commercial websites, landing pages.
 
-# SKILLS
+# Skills
 
 - **Frontend:** Vue, React, Nuxt, Next.js, TypeScript, JavaScript, HTML, SCSS
 - **State & Data:** Pinia, Zustand, Tanstack Query, Vue/React Router, REST API, WebSocket
@@ -59,35 +59,38 @@ I use Claude Code, MCP servers and my own tooling to move faster inside a compan
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/nightrunner91/riff">Riff</a></h3>
-      <p>A pocket-sized JavaScript playground: editor on top, console below, a fresh sandbox on every run. One HTML file, no build step, no account.</p>
+      <h3><a href="https://github.com/nightrunner91/pipebot">Pipebot</a></h3>
+      <p>Webhook relay that turns GitLab CI/CD events into readable Telegram notifications, with multi-repo routing and per-stage rules.</p>
       <p>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-        <img src="https://img.shields.io/badge/No%20dependencies-3C3C3C?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=node.js&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white"/>
       </p>
-      <p><a href="https://nightrunner91.github.io/riff/"><b>Live demo</b></a> · <a href="https://github.com/nightrunner91/riff">Source</a></p>
+      <p><a href="https://github.com/nightrunner91/pipebot">Source</a></p>
       <br />&nbsp;
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/nightrunner91/huge-clock">Huge Clock</a></h3>
-      <p>GNOME Shell extension that paints a huge thin clock on the wallpaper: one per monitor, never in Alt+Tab, never steals a click.</p>
+      <h3><a href="https://github.com/nightrunner91/telepost">Telepost</a></h3>
+      <p>Telegram userbot that posts photos from a local folder on a schedule, randomizes delivery times and never sends the same file twice.</p>
       <p>
-        <img src="https://img.shields.io/badge/GNOME%20Shell-4A86CF?style=flat-square&logo=gnome&logoColor=white"/>
-        <img src="https://img.shields.io/badge/GJS-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+        <img src="https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white"/>
       </p>
-      <p><a href="https://github.com/nightrunner91/huge-clock">Source</a></p>
+      <p><a href="https://github.com/nightrunner91/telepost">Source</a></p>
       <br />&nbsp;
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/nightrunner91/jan">Jan</a></h3>
-      <p>A collection of AI personalities for OpenWebUI and local LLMs: one model, different system prompts, skills and knowledge. Add an alter by editing text, not by deploying a model.</p>
+      <h3><a href="https://github.com/nightrunner91/nightvue">Nightvue</a></h3>
+      <p>Vue framework for building custom interfaces from scratch: SCSS mixins and functions, flexbox grid, router layouts and SVG sprites — no prebuilt UI components.</p>
       <p>
-        <img src="https://img.shields.io/badge/OpenWebUI-FF6B35?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Prompt%20Engineering-6E56CF?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white"/>
+        <img src="https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Vue%20CLI-42B883?style=flat-square&logo=vue.js&logoColor=white"/>
       </p>
-      <p><a href="https://github.com/nightrunner91/jan">Source</a></p>
+      <p><a href="https://github.com/nightrunner91/nightvue">Source</a></p>
       <br />&nbsp;
     </td>
     <td width="50%" valign="top">
@@ -114,27 +117,35 @@ I use Claude Code, MCP servers and my own tooling to move faster inside a compan
       <br />&nbsp;
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/nightrunner91/pipebot">Pipebot</a></h3>
-      <p>Webhook relay that turns GitLab CI/CD events into readable Telegram notifications, with multi-repo routing and per-stage rules.</p>
+      <h3><a href="https://github.com/nightrunner91/jan">Jan</a></h3>
+      <p>A collection of AI personalities for OpenWebUI and local LLMs: one model, different system prompts, skills and knowledge. Add an alter by editing text, not by deploying a model.</p>
       <p>
-        <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=node.js&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white"/>
+        <img src="https://img.shields.io/badge/OpenWebUI-FF6B35?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Prompt%20Engineering-6E56CF?style=flat-square"/>
       </p>
-      <p><a href="https://github.com/nightrunner91/pipebot">Source</a></p>
+      <p><a href="https://github.com/nightrunner91/jan">Source</a></p>
       <br />&nbsp;
     </td>
   </tr>
   <tr>
-    <td width="100%" colspan="2" valign="top">
-      <h3><a href="https://github.com/nightrunner91/telepost">Telepost</a></h3>
-      <p>Telegram userbot that posts photos from a local folder on a schedule, randomizes delivery times and never sends the same file twice.</p>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/nightrunner91/huge-clock">Huge Clock</a></h3>
+      <p>GNOME Shell extension that paints a huge thin clock on the wallpaper: one per monitor, never in Alt+Tab, never steals a click.</p>
       <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-        <img src="https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white"/>
+        <img src="https://img.shields.io/badge/GNOME%20Shell-4A86CF?style=flat-square&logo=gnome&logoColor=white"/>
+        <img src="https://img.shields.io/badge/GJS-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
       </p>
-      <p><a href="https://github.com/nightrunner91/telepost">Source</a></p>
+      <p><a href="https://github.com/nightrunner91/huge-clock">Source</a></p>
+      <br />&nbsp;
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/nightrunner91/riff">Riff</a></h3>
+      <p>A pocket-sized JavaScript playground: editor on top, console below, a fresh sandbox on every run. One HTML file, no build step, no account.</p>
+      <p>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+        <img src="https://img.shields.io/badge/No%20dependencies-3C3C3C?style=flat-square"/>
+      </p>
+      <p><a href="https://nightrunner91.github.io/riff/"><b>Live demo</b></a> · <a href="https://github.com/nightrunner91/riff">Source</a></p>
       <br />&nbsp;
     </td>
   </tr>
