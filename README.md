@@ -66,7 +66,7 @@ SKILLS
   <tr>
     <td width="50%" valign="top">
       <a href="https://nightrunner91.github.io/riff/">
-        <img src="https://raw.githubusercontent.com/nightrunner91/riff/main/assets/preview.png" alt="Riff - JavaScript playground" width="100%" />
+        <img src="https://raw.githubusercontent.com/nightrunner91/riff/main/assets/preview.png" alt="Riff - JavaScript playground" width="72%" />
       </a>
       <h3><a href="https://github.com/nightrunner91/riff">Riff</a></h3>
       <p>A pocket-sized JavaScript playground: editor on top, console below, a fresh sandbox on every run. One HTML file, no build step, no account.</p>
@@ -104,7 +104,7 @@ SKILLS
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/nightrunner91/fetcho">
-        <img src="https://raw.githubusercontent.com/nightrunner91/fetcho/main/src/assets/fetcho-preview-light.png" alt="Fetcho - Chromium extension" width="100%" />
+        <img src="https://raw.githubusercontent.com/nightrunner91/fetcho/main/src/assets/fetcho-preview-light.png" alt="Fetcho - Chromium extension" width="70%" />
       </a>
       <h3><a href="https://github.com/nightrunner91/fetcho">Fetcho</a></h3>
       <p>Chromium extension that recognizes the platform behind a video link, routes it to the right downloader and clicks through for you: Instagram, X, YouTube Shorts, TikTok, Reddit, Facebook.</p>
