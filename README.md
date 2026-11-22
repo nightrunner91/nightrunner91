@@ -6,7 +6,8 @@
 
 ---
 
-Product Engineer with 8+ years in frontend. I take products from prototype to production in Vue and React. I come at frontend work from the product side, focus on getting new features shipped, and care about the codebase I leave behind.\
+Product Engineer with 8+ years in frontend. I take products from prototype to production in Vue and React. I come at frontend work from the product side, focus on getting new features shipped, and care about the codebase I leave behind.
+
 I use Claude Code, MCP servers and my own tooling to move faster inside a company's existing stack and codebase. My core principal: AI should augment engineers, not replace them.
 
 - **Tech stack:** Vue / React / TypeScript.
@@ -36,7 +37,7 @@ I use Claude Code, MCP servers and my own tooling to move faster inside a compan
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
         <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
       </p>
-      <p><a href="https://nightrunner91.github.io/prepra/"><b>Live demo</b></a> · <a href="https://github.com/nightrunner91/prepra">Source</a></p>
+      <p><a href="https://prepra.up.railway.app/"><b>Live demo</b></a> · <a href="https://github.com/nightrunner91/prepra">Source</a></p>
       <br />&nbsp;
     </td>
     <td width="50%" valign="top">
