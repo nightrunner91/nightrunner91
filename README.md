@@ -14,7 +14,7 @@ I use Claude Code, MCP servers and my own tooling to move faster inside a compan
 - **Domains:** AI platforms, HR tech, fintech, healthtech, trading, blockchain, infrastructure.
 - **Experience:** complex UX workflows, dashboards, real-time websocket systems, admin panels, personal cabinets, commercial websites, landing pages.
 
-# Skills
+## Skills
 
 - **Frontend:** Vue, React, Nuxt, Next.js, TypeScript, JavaScript, HTML, SCSS
 - **State & Data:** Pinia, Zustand, Tanstack Query, Vue/React Router, REST API, WebSocket
