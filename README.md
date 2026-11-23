@@ -8,7 +8,7 @@
 
 Product Engineer with 8+ years in frontend. I take products from prototype to production in Vue and React. I come at frontend work from the product side, focus on getting new features shipped, and care about the codebase I leave behind.
 
-I use Claude Code, MCP servers and my own tooling to move faster inside a company's existing stack and codebase. My core principal: AI should augment engineers, not replace them.
+I use Claude Code, MCP servers and my own tooling to move faster inside a company's existing stack and codebase. My core principle: AI should augment engineers, not replace them.
 
 - **Tech stack:** Vue / React / TypeScript.
 - **Domains:** AI platforms, HR tech, fintech, healthtech, trading, blockchain, infrastructure.
