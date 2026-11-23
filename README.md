@@ -1,23 +1,23 @@
 # Semikin Nikita
 
-**AI Product Engineer | Senior Frontend (Vue · React · Typescript) | LLM integrations**
+**AI Product Engineer | Senior Frontend (React, Vue, Typescript) | LLM integrations**
 
 <a href="mailto:semikin91@gmail.com">semikin91@gmail.com</a> | [GitHub](https://github.com/nightrunner91/) | [LinkedIn](https://www.linkedin.com/in/semikin-nikita/) | [Telegram](https://t.me/nightrunner91)
 
 ---
 
-AI Product Engineer with 8+ years in frontend. I take products from prototype to production in Vue and React. I come at frontend work from the product side, focus on getting new features shipped, and care about the codebase I leave behind.
+AI Product Engineer with 8+ years in frontend. I take products from prototype to production in React and Vue. I come at frontend work from the product side, focus on getting new features shipped, and care about the codebase I leave behind.
 
 I use Claude Code, MCP servers and my own tooling to move faster inside a company's existing stack and codebase. My core principle: AI should augment engineers, not replace them.
 
-- **Tech stack:** Vue / React / TypeScript.
+- **Tech stack:** React / Vue / TypeScript.
 - **Domains:** AI platforms, HR tech, fintech, healthtech, trading, blockchain, infrastructure.
 - **Experience:** complex UX workflows, dashboards, real-time websocket systems, admin panels, personal cabinets, commercial websites, landing pages.
 
 ## Skills
 
-- **Frontend:** Vue, React, Nuxt, Next.js, TypeScript, JavaScript, HTML, SCSS
-- **State & Data:** Pinia, Zustand, TanStack Query, Vue/React Router, REST API, WebSocket
+- **Frontend:** React, Next.js, Vue, Nuxt, TypeScript, JavaScript, HTML, SCSS
+- **State & Data:** Pinia, Zustand, TanStack Query, React/Vue Router, REST API, WebSocket
 - **AI Tooling:** Claude Code, OpenCode, MCP servers, OpenRouter, LM Studio, Ollama
 - **UI & Design:** Figma, Tailwind, shadcn/ui, Bootstrap 5
 - **Build & Infra:** Vite, Webpack, CI/CD, Docker, npm, Git
