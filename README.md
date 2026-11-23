@@ -1,6 +1,6 @@
 # Semikin Nikita
 
-**AI Product Engineer | Senior Frontend (React, Vue, Typescript) | LLM integrations**
+**AI Product Engineer | Senior Frontend (React, Vue, TypeScript) | LLM integrations**
 
 <a href="mailto:semikin91@gmail.com">semikin91@gmail.com</a> | [GitHub](https://github.com/nightrunner91/) | [LinkedIn](https://www.linkedin.com/in/semikin-nikita/) | [Telegram](https://t.me/nightrunner91)
 
