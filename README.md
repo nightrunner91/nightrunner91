@@ -1,6 +1,6 @@
 # Semikin Nikita
 
-**Product Engineer | Senior Frontend (Vue / React / TypeScript) | AI-augmented development**
+**AI Product Engineer | Senior Frontend (Vue · React · Typescript) | LLM integrations**
 
 <a href="mailto:semikin91@gmail.com">semikin91@gmail.com</a> | [GitHub](https://github.com/nightrunner91/) | [LinkedIn](https://www.linkedin.com/in/semikin-nikita/) | [Telegram](https://t.me/nightrunner91)
 
@@ -24,7 +24,17 @@ I use Claude Code, MCP servers and my own tooling to move faster inside a compan
 - **Testing & Debugging:** Vitest, Playwright, Sentry, Chrome Devtools
 - **Workflow:** Swagger, OpenAPI, Postman, YouTrack, Linear, Miro, Slack
 
-## Featured projects
+## Current focus
+
+- AI tooling: agents, skills, plugins, MCP servers
+- System design (main focus on Node.js & Postgres)
+- Product thinking & soft skills
+
+## Experience
+
+8+ years at **Yucatech.Software**, from Junior Web Developer to Senior Frontend Engineer. I owned frontend architecture across client products in AI platforms, HR tech, fintech, healthtech, trading, blockchain and infrastructure: estimates and prototypes, production releases, and long-term maintenance of the codebases behind them. Full history and project details live on [LinkedIn](https://www.linkedin.com/in/semikin-nikita/).
+
+## Featured pet-projects
 
 <table>
   <tr>
@@ -151,19 +161,6 @@ I use Claude Code, MCP servers and my own tooling to move faster inside a compan
     </td>
   </tr>
 </table>
-
-## Current focus
-
-- Developer tools and local-first products
-- AI tooling: agents, skills, MCP servers
-- System design
-- Product thinking
-
-## Experience
-
-8+ years at **Yucatech.Software**, from Junior Web Developer to Senior Frontend Engineer. I own frontend architecture across client products in AI platforms, HR tech, fintech, healthtech, trading, blockchain and infrastructure: estimates and prototypes, production releases, and long-term maintenance of the codebases behind them.
-
-Full history and project details live on [LinkedIn](https://www.linkedin.com/in/semikin-nikita/).
 
 ---
 
