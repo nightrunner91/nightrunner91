@@ -95,13 +95,13 @@ I use Claude Code, MCP servers and my own tooling to move faster inside a compan
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/nightrunner91/nightvue">Nightvue</a></h3>
-      <p>Vue framework for building custom interfaces from scratch: SCSS mixins and functions, flexbox grid, router layouts and SVG sprites — no prebuilt UI components.</p>
+      <p>A Vue 2 starter with an SCSS toolkit for building custom interfaces from scratch: Sass mixins and functions, flexbox grid, router layouts and SVG sprites, with no prebuilt UI components. Archived in 2023, kept online as a live demo.</p>
       <p>
         <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white"/>
         <img src="https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white"/>
         <img src="https://img.shields.io/badge/Vue%20CLI-42B883?style=flat-square&logo=vue.js&logoColor=white"/>
       </p>
-      <p><a href="https://github.com/nightrunner91/nightvue">Source</a></p>
+      <p><a href="https://nightrunner91.github.io/nightvue/"><b>Live demo</b></a> · <a href="https://github.com/nightrunner91/nightvue">Source</a></p>
       <br />&nbsp;
     </td>
     <td width="50%" valign="top">
